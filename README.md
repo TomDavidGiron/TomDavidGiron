@@ -32,7 +32,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [InterviewIQ](LINK) | AI interview preparation platform with adaptive questions, evaluation, progress tracking and job-specific lessons | Java, Spring Boot, React, PostgreSQL |
+| [InterviewIQ] https://github.com/TomDavidGiron/InterviewIQ | AI interview preparation platform with adaptive questions, evaluation, progress tracking and job-specific lessons | Java, Spring Boot, React, PostgreSQL |
 | [MIPS Simulator](LINK) | Educational MIPS simulator with single-cycle and pipeline visualization | Python, React |
 | [IssueFlow](LINK) | Issue tracking system with auth, projects, issues, comments and file handling | Java, Spring Boot, PostgreSQL |
 
